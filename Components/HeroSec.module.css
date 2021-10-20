@@ -1,0 +1,56 @@
+/* .imageclass{
+  
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width:650px) {
+  .imageclass{
+  display: flex;
+}
+}
+@media (min-width:1440px) {
+  .imageclass{
+  width: 100%;
+}
+}
+
+.classfor{
+  position: relative;
+}
+.imagepig{
+  object-fit:cover;
+  width: 100%;
+
+  height: 100%;
+}
+@media (min-width:768px) {
+  .imagepig{
+   object-fit:cover;
+  width: 80%;
+  height: 80%;
+}
+}
+@media (min-width:1024px) {
+  .imagepig{
+   object-fit:cover;
+  width:100%;
+  height: 100%;
+}
+}
+@media (min-width:1440px) {
+  .imagepig{
+   object-fit:cover;
+  width:80%;
+  height: 140%;
+}
+}
+@media (min-width:2560px) {
+  .imagepig{
+   object-fit:cover;
+  width:100%;
+  height: 120%;
+}
+}
+ */
